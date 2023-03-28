@@ -6,5 +6,5 @@ Now, instead of mentally compiling your expressions into Polish notation and coe
 make
 ./ac
 SET_PRECISION=100
-4 * atan(1)  // 3.14159...
+4 * atan(1)  // 3.1415926535897932384626433832795028841971693993751058209749445e0
 ```
